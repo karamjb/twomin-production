@@ -9,7 +9,8 @@ module.exports = {
       watch: false,
       env: {
         NODE_ENV: "production",
-        DATABASE: "mongodb://localhost:27017/twomin?retryWrites=true",
+        DATABASE:
+          "mongodb+srv://devuser:strWqSD2134CXdsr3dsWqo@dev.gyspg.mongodb.net/twomin?retryWrites=true&w=majority",
         PORT: "8090",
         LOG_DIR: "logs",
         JWT_SECRET:

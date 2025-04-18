@@ -25,6 +25,8 @@ module.exports = {
         PUBLIC_KEY: "Mw4COzoTO0ozMxQlNy0SMw0CM4kTMi",
         TZ: "Asia/Jerusalem",
         WEBSITE_BASE_URL: "https://app.soonx.co.il",
+        PAYRO_TOKEN:
+          "JSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTY3MTcwNzY5OCwiaWF0IjoxNjcxN",
       },
       max_memory_restart: "1024M",
       node_args: ["--max_old_space_size=10240"],
